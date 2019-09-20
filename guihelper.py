@@ -3,7 +3,7 @@
 """
 Created on Sat Jun 29 16:59:56 2019
 
-@author: hemant
+@author: aman
 """
 
 #Complete the project by making function as general for all
